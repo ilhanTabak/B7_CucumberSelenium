@@ -25,7 +25,7 @@ Feature: Navigate to Menu with Parameters
     And The user navigates to "My Account" menu
     Then The user should be able to see header as "Dashboards"
 
-
+@smoke
     #Class Task -->  Create Navigate to menu with parameters feature test with Scenario Outline
   Scenario Outline: User Navigates Different Menu
     When The user logs in using "<userType>" and "<password>"
