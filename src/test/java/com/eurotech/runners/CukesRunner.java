@@ -15,6 +15,7 @@ import org.junit.runner.RunWith;
         glue = "com/eurotech/step_definitions",
         dryRun = false,
         tags = " @rerun"
+        //ne haber main
 
 )
 public class CukesRunner {
