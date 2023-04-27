@@ -16,6 +16,7 @@ import org.junit.runner.RunWith;
         dryRun = false,
         tags = " @smoke"
         //ne haber
+        //gitte yaptim
 
 )
 public class CukesRunner {
